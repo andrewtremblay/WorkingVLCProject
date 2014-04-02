@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6C2068D7-D4CE-4A4D-BF18-49DDDC90A758</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WorkingVLCProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>00322ABD-3FAA-442D-B406-46927A444378</key>
+		<string>https://github.com/andrewtremblay/WorkingVLCProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WorkingVLCProject/WorkingVLCProject.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>00322ABD-3FAA-442D-B406-46927A444378</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/andrewtremblay/WorkingVLCProject.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>00322ABD-3FAA-442D-B406-46927A444378</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>00322ABD-3FAA-442D-B406-46927A444378</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WorkingVLCProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
