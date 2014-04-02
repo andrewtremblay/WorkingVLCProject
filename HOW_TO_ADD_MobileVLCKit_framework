@@ -1,0 +1,6 @@
+MobileVLCKit.framework, at 500MB, is WAY TOO BIG to add to github
+
+To add it the easy way, download one of the nightlies : http://nightlies.videolan.org/build/ios/
+
+To add it the hard way, compile it yourself : https://wiki.videolan.org/VLCKit/
+
